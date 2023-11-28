@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photogram</string>
+    <string name="next">Continuar</string>
+    <string name="email">Enviar Correo</string>
+    <string name="tuser">%s estás usando la versión 1 de Photogram</string>
+    <string name="desc">Photogram es una aplicación en la que los usuarios pueden subir fotos, con una breve descripción
+    e indicar la categoría; Además de la posibilidad de interactuar con las fotos de otros usuarios.</string>
+    <string name="bienvenida">¡Bienvenido! Nos complace que haya elegido nuestra aplicación.</string>
+</resources>
